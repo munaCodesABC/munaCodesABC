@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Muna! 👋
 
-<!--
-**munaCodesABC/munaCodesABC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Technology Student | Aspiring IT Professional
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Information Technology student at Nugaal University, interested in web development, networking, cybersecurity, and mobile application development.
+
+## 🚀 About Me
+- 🎓 Information Technology Student
+- 💻 Interested in Web Development
+- 🌐 Learning Networking
+- 🔐 Exploring Cybersecurity
+- 📱 Learning Flutter and Dart
+- 📊 Interested in Data Analysis
+
+## 🛠️ Skills & Technologies
+- HTML
+- CSS
+- PHP
+- Laravel
+- Python
+- Dart
+- Flutter
+- Microsoft Word
+- Microsoft Excel
+
+## 📂 My Projects
+- Personal Portfolio Website
+- Event Management System
+- Language Translator App
+
+## 🌐 Connect With Me
+- Portfolio: https://munaitportfolio.infinityfree.io
+- LinkedIn: https://www.linkedin.com/in/muna-abdiraxman
+- GitHub: https://github.com/munaCodesABC
+
+## 📫 Contact
+Email: munaabdiraxman2024@gmail.com
